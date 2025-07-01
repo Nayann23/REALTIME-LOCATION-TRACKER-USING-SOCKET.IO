@@ -1,3 +1,5 @@
+// Note: Ensuring socket connection works before finalizing live location logic
+
 const express = require("express");
 const app = express();
 const http = require("http");
