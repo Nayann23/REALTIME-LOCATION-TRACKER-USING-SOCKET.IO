@@ -1,4 +1,4 @@
-# 🌍 REALTIME LOCATION TRACKER BACKEND USING SOCKET.IO
+# REALTIME-LOCATION-TRACKER-USING-SOCKET.IO-BACKEND-PROJECT
 
 A backend-powered **Real-Time Location Tracker** built with **Node.js**, **Express**, and **Socket.IO**. This application enables the transmission and broadcasting of live user or device geolocation to connected clients, ideal for use cases such as **delivery tracking**, **fleet management**, or **friend-finder systems**.
 
@@ -28,7 +28,7 @@ A backend-powered **Real-Time Location Tracker** built with **Node.js**, **Expre
 To connect your local project to this GitHub repository, run:
 
 ```bash
-git remote add origin https://github.com/Nayann23/REALTIME-LOCATION-TRACKER-BACKEND-USING-SOCKET.IO.git
+git remote add origin https://github.com/Nayann23/REALTIME-LOCATION-TRACKER-USING-SOCKET.IO-BACKEND-PROJECT.git
 ```
 
 ---
